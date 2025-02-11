@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Fall 2024: Internship
+* Fall 2024 - Present: Internship
   * Aerosol Dynamics Inc.
   * Duties include: Assembling product and documenting assembly process.
 
