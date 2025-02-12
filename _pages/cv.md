@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<!-- {% include base_path %} -->
+{% include base_path %}
 
 ---
 # Education
@@ -45,4 +45,4 @@ redirect_from:
 
 - Team 2024°C
   - This was my undergraduate capstone project. The goal for this project was to design and construct a water-cooled chamber for use as a furnace attachment to a material testing machine. Due to constraints in budget, team size, and team expertise, we weren't able to design the entire system. Instead we focused on designing and validating the chamber's design and left the parts we were unable to focus on to future teams.
-  - Since this was a team, communication and teamwork were strictly necessary. This project also served as a good exercise in handling a project we would not be completing. While we were successful in designing and validating our designs in theory, we were unable to actually assemble the chamber due to unavoidable roadblocks in getting parts of the chamber welded together. Additionally, even if we had managed to get the chamber completely assembled, it would have been nonfunctional since we didn't have the resources to also make the heating, power, and control systems.
+  - Since this was a group project, communication and teamwork were strictly necessary. This project also served as a good exercise in handling a project we would not be completing. While we were successful in designing and validating our designs in theory, we were unable to actually assemble the chamber due to unavoidable roadblocks in getting parts of the chamber welded together. Additionally, even if we had managed to get the chamber completely assembled, it would have been nonfunctional since we didn't have the resources to also make the heating, power, and control systems.
