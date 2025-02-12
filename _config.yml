@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Ben Spielman"
 title_separator          : "-"
 name                     : &name "Ben Spielman"
-description              : &description "Confused human being"
+description              : &description "Online portfolio"
 url                      : https://pizza496.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pizza496/pizza496.github.io"
@@ -23,7 +23,7 @@ repository               : "pizza496/pizza496.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : &name
+  name             : "Ben Spielman"
   pronouns         : # example: "she/her"  
   bio              : "Confused human being"
   location         : "Earth"
