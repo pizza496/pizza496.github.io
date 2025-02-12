@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Home"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About Me
+Hello!
 
-I'll get around to adding this eventually.
+My name is Ben. I'm a graduate student at Santa Clara University working towards getting my master's in mechanical engineering. When I'm not at school, I can enjoy various things ranging from cooking to reading to attending/teaching martial arts classes. 
