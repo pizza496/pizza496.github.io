@@ -8,5 +8,5 @@ author_profile: true
 {% include base_path %}
 
 {% for category in site.categories %}
-  <a class='' href=/{{ category[0] }}>{{ category[0] }}</a>
+  <a class='' href=/{{ category[0] | slugify }}>{{ category[0] }}</a>
 {% endfor %}
