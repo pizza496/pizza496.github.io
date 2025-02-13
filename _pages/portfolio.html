@@ -8,12 +8,9 @@ author_profile: true
 {% include base_path %}
 
 
-{% for post in site.posts |  %}
+{% for post in site.posts %}
   {% include archive-single.html %}
   {% comment %} {% if post.categories contains portfolio %}
-    {% include archive-single.html %}
-  {% endif %} {% endcomment %}
+        {% include archive-single.html %}
+    {% endif %} {% endcomment %}
 {% endfor %}
-
-
-
