@@ -9,7 +9,6 @@ author_profile: true
 
 
 {% for post in site.posts %}
-  {% if post.categories contains portfolio %}
-    {% include archive-single.html %}
-  {% endif %}
+  {% include archive-single.html %}
+  {{ post.categories }}
 {% endfor %}
