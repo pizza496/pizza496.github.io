@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+<hr>
 
 {% for post in site.posts %}
   {% if post.categories contains "ENGR-270-Speeches" %}
     {% include archive-single.html %}
+    <hr>
   {% endif %}
 {% endfor %}
