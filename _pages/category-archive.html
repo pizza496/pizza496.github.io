@@ -8,5 +8,5 @@ author_profile: true
 {% include base_path %}
 
 {% for category in site.categories %}
-  <a class='.btn' href="{% link category[0] %}"></a>
+  <a class='.btn' href={{ site.baseurl }}></a>
 {% endfor %}
