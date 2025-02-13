@@ -11,7 +11,7 @@ redirect_from:
 
 
 {% for post in site.posts %}
-  {% if post.categories contains "ENGR 270 Speeches" %}
+  {% if post.categories contains "ENGR-270-Speeches" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
