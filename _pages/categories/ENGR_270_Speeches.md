@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /ENGR_270_Speeches
+permalink: /categories/ENGR_270_Speeches
 title: "ENGR 270 Speeches"
 author_profile: true
 ---
