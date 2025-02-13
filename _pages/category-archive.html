@@ -8,5 +8,5 @@ author_profile: true
 {% include base_path %}
 
 {% for category in site.categories %}
-  [test link]({{ site.baseurl }}/{{ category.name }})
+  {{ category.name }}
 {% endfor %}
