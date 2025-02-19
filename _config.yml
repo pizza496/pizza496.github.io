@@ -229,8 +229,7 @@ defaults:
       author_profile: true
   # Portfolio
   - scope:
-      path: ""
-      type: "portfolio"
+      path: "Portfolio"
     values:
       layout: single
       author_profile: true
