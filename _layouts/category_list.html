@@ -2,12 +2,12 @@
 layout: archive
 ---
 
-
 {% include base_path %}
 
 <hr>
 
 {% for post in site.posts %}
+  {{ post.target }}
   {% if post.categories contains post.target %}
     {% include archive-single.html %}
     <hr>
