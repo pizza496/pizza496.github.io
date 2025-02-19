@@ -1,19 +1,9 @@
 ---
-layout: archive
+layout: category_list
 permalink: /categories/ENGR-270-Speeches
 title: "ENGR 270 Speeches"
 author_profile: true
+target: "ENGR-270-Speeches"
 redirect_from:
   - /categories/engr-270-speeches
 ---
-
-{% include base_path %}
-
-<hr>
-
-{% for post in site.posts %}
-  {% if post.categories contains "ENGR-270-Speeches" %}
-    {% include archive-single.html %}
-    <hr>
-  {% endif %}
-{% endfor %}

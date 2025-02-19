@@ -1,0 +1,15 @@
+---
+layout: archive
+---
+
+
+{% include base_path %}
+
+<hr>
+
+{% for post in site.posts %}
+  {% if post.categories contains post.target %}
+    {% include archive-single.html %}
+    <hr>
+  {% endif %}
+{% endfor %}
