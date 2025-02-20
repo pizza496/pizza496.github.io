@@ -4,13 +4,10 @@ layout: archive
 
 {% include base_path %}
 
-
-Test!
-
 <hr>
 
 {% for post in site.posts %}
-  {{ post.target }}
+  This is a post!
   {% if post.categories contains post.target %}
     {% include archive-single.html %}
     <hr>
