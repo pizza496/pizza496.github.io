@@ -2,27 +2,6 @@
    BUTTONS
    ========================================================================== */
 
-.cat-btn {
-  @extend .btn;
-  color: var(--global-text-color-light) !important;
-  border: 1px solid var(--global-border-color) !important;
-  /* override*/
-  background-color: #fff;
-  font-size: $type-size-4;
-  text-decoration: none;
-}
-
-.post-btn {
-  @extend .btn;
-  color: var(--global-text-color-light) !important;
-  border: 1px solid var(--global-border-color) !important;
-  /* override*/
-  background-color: #fff;
-  font-size: $type-size-5;
-  text-decoration: none;
-}
-
-
 /*
    Default button
    ========================================================================== */
@@ -177,4 +156,29 @@
 &--small {
   font-size: $type-size-7;
 }
+}
+
+/*
+   Custom buttons
+   ========================================================================== */
+
+
+.cat-btn {
+  @extend .btn;
+  color: var(--global-text-color-light) !important;
+  border: 1px solid var(--global-border-color) !important;
+  /* override*/
+  background-color: #fff;
+  font-size: $type-size-4;
+  text-decoration: none;
+}
+
+.post-btn {
+  @extend .btn;
+  color: var(--global-text-color-light) !important;
+  border: 1px solid var(--global-border-color) !important;
+  /* override*/
+  background-color: #fff;
+  font-size: $type-size-5;
+  text-decoration: none;
 }
