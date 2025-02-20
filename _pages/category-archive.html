@@ -9,7 +9,7 @@ author_profile: true
 
 {% for category in site.categories %}
   <a
-    class="btn --inverse"
+    class="btn btn--inverse"
     rel="tag"
     href=categories/{{ category[0] | slugify }}>{{ category[0] }}</a>
 {% endfor %}
