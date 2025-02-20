@@ -7,7 +7,7 @@ layout: archive
 <hr>
 
 {% for post in site.posts %}
-  {% post.target %}
+  <p>{{ post.target }}</p>
   {% if post.categories contains post.target %}
     {% include archive-single.html %}
     <hr>
