@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 ---
-### Education
+## Education {: .center }
 
 - M.S. in Mechanical Engineering, Santa Clara University (In Progress)
 - B.S. in Mechanical Engineering, Santa Clara University, 2024
 
 ---
-### Work experience
+## Work experience {: .center }
 
 - Fall 2024 - Present: Internship
   - Aerosol Dynamics Inc.
@@ -30,7 +30,7 @@ redirect_from:
     - Automation of simple admin tasks (Google Workspace)
 
 ---
-### Skills
+## Skills {: .center }
 
 - 3D CAD
   - Solidworks
@@ -43,9 +43,9 @@ redirect_from:
 - Analytical Thinking
 
 ---
-### Notable Projects
+## Notable Projects {: .center }
 
-###### Team 2024°C
+### Team 2024°C
 
 This was my undergraduate capstone project. The goal for this project was to design and construct a water-cooled chamber for use as a furnace attachment to a material testing machine. Due to constraints in budget, team size, and team expertise, we weren't able to design the entire system. Instead we focused on designing and validating the chamber's design and left the parts we were unable to focus on to future teams.
 
