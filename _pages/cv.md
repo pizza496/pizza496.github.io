@@ -10,13 +10,17 @@ redirect_from:
 {% include base_path %}
 
 ---
-## Education {: .center }
+
+## Education
+{: .center }
 
 - M.S. in Mechanical Engineering, Santa Clara University (In Progress)
 - B.S. in Mechanical Engineering, Santa Clara University, 2024
 
 ---
-## Work experience {: .center }
+
+## Work experience
+{: .center }
 
 - Fall 2024 - Present: Internship
   - Aerosol Dynamics Inc.
@@ -30,7 +34,9 @@ redirect_from:
     - Automation of simple admin tasks (Google Workspace)
 
 ---
-## Skills {: .center }
+
+## Skills
+{: .center }
 
 - 3D CAD
   - Solidworks
@@ -43,7 +49,9 @@ redirect_from:
 - Analytical Thinking
 
 ---
-## Notable Projects {: .center }
+
+## Notable Projects
+{: .center }
 
 ### Team 2024°C
 
